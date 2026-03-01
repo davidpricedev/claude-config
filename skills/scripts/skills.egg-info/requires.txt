@@ -1,0 +1,4 @@
+hypothesis
+pydantic
+PyYAML
+pytest
