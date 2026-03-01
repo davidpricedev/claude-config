@@ -28,3 +28,4 @@
 **/.hypothesis
 **/.venv
 **/*.pyc
+**/*.egg-info
